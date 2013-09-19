@@ -1,3 +1,3 @@
-meteor-gmaps
+meteor-datejs
 -----------
-A package that allows you to use https://github.com/hpneo/gmaps in Meteor
+Package that adds Datejs too meteor: https://github.com/datejs/Datejs
