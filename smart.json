@@ -1,0 +1,8 @@
+{
+  "name": "meteor-datejs",
+  "description": "Meteor package for datejs",
+  "homepage": "https://github.com/patrickocoffeyo/meteor-datejs",
+  "author": "Patrick Coffey  (http://scriptsquirrel.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/patrickocoffeyo/meteor-datejs.git"
+}
